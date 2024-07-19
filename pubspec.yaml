@@ -18,8 +18,7 @@ dependencies:
   universal_html: ^2.2.4
   google_fonts: ^6.1.0
   universal_io: ^2.2.2
-  responsive_framework:
-    path: responsive_framework/
+  responsive_framework: ^1.4.0
 
 dev_dependencies:
   flutter_test:
